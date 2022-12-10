@@ -3,8 +3,8 @@
 I'm a Mechanical Engineering and Applied computer Science graduate.\
 For some time I am deeply interested in everything connected to IT.\
 I’m gladly learning everything connected to Computer Science.\
-My main focus right now is Web Development, especially front-end.\
-Fun fact: I love music!
+My main focus right now is Web Development.\
+Fun fact: I really love music!
 
 <br />
 
@@ -21,8 +21,10 @@ Fun fact: I love music!
 <img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Python" width="24px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />
 <img align="left" alt="SQL" width="24px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
 <img align="left" alt="Java" width="24px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+
 
 <br />
 <br />
@@ -32,8 +34,10 @@ Fun fact: I love music!
 <img align="left" alt="Git" width="24px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Django" width="24px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="Eclipse" width="24px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="Intellij idea" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+
 
 <br />
 <br />
