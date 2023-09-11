@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Peter!
 
 I'm a Mechanical Engineering and Applied computer Science graduate.\
-For some time I am deeply interested in everything connected to IT.\
+For some time now, I have been deeply interested in everything related to IT.\
 I’m gladly learning everything connected to Computer Science.\
 My main focus right now is Web Development.\
 Fun fact: I really love music!
@@ -13,6 +13,7 @@ Fun fact: I really love music!
 [<img align="left" alt="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/300px-Facebook_icon_2013.svg.png?20161223201621"/>][facebook]
+[<img align="left" alt="Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/128/351/351456.png"/>][portfolio]
 
 <br />
 <br />
@@ -47,3 +48,4 @@ Fun fact: I really love music!
 [facebook]: https://www.facebook.com/piotrekblady.kwiatkowski/
 [instagram]: https://www.instagram.com/perfect_story_to_tell/
 [linkedin]: https://www.linkedin.com/in/piotr-kwiatkowski-9ba0191a3/
+[portfolio]: https://piotrkwiatkowski.netlify.app/
