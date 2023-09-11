@@ -13,7 +13,7 @@ Fun fact: I really love music!
 [<img align="left" alt="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/300px-Facebook_icon_2013.svg.png?20161223201621"/>][facebook]
-[<img align="left" alt="Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/128/351/351456.png"/>][portfolio]
+[<img align="left" alt="Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/128/6611/6611847.png"/>][portfolio]
 
 <br />
 <br />
