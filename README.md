@@ -33,14 +33,14 @@ Fun fact: I really love music!
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Visual Studio Code" width="24px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 <img align="left" alt="Git" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
-<img align="left" alt="Git" width="24px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Django" width="24px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="Eclipse" width="24px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="Intellij idea" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-<img align="left" alt="Jira" width="24px" src="https://logowik.com/content/uploads/images/jira3124.jpg" />
+<img align="left" alt="Jira" width="24px" src="https://w7.pngwing.com/pngs/992/738/png-transparent-jira-hd-logo-thumbnail.png" />
 
 
 <br />
