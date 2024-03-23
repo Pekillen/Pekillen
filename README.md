@@ -32,8 +32,11 @@ Fun fact: I really love music!
 <br />
 
 ### Tools:
+<img align="left" alt="Visual Studio Code" width="24px" src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png" />
 <img align="left" alt="Visual Studio Code" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Git" width="24px" src="https://p1.hiclipart.com/preview/130/540/968/git-red-repository-merge-commit-github-version-control-directory-software-developer-png-clipart-thumbnail.jpg" />
 <img align="left" alt="Git" width="24px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
+
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Django" width="24px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
