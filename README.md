@@ -40,7 +40,7 @@ Fun fact: I really love music!
 <img align="left" alt="Django" width="24px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <!-- <img align="left" alt="Eclipse" width="24px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" /> -->
 <img align="left" alt="Intellij idea" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-<img align="left" alt="Jira" width="24px" src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" />
+<img align="left" alt="Jira" width="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOY0E7ICG8PFvOXpFQp0KF_7hsuR4_hgyHciXaS00MhyWzCx4JdZjyuwoPVbmqzB7civs&usqp=CAU" />
 
 
 <br />
