@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Peter!
 
 I'm a Mechanical Engineering and Applied computer Science graduate.\
-For some time now, I have been deeply interested in everything related to IT.\
-I’m gladly learning everything connected to Computer Science.\
+For some time now, I have been working as a Software Developer.\
 My main focus right now is Web Development.\
+Among my responsibilities are: Architecture planning, Development of User Interfaces, Creation and maintenance of APIs, and carrying out DevOps operations.\
 Fun fact: I really love music!
 
 <br />
